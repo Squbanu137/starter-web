@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Kornel Dahlke  kornel137@o2.pl		@dupadupa
 
 # THANKS
 
